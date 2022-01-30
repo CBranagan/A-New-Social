@@ -1,6 +1,7 @@
 # A New Social
 
-    [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]
+   ![license-MIT-green](https://user-images.githubusercontent.com/89811148/151683755-c7a55236-3ebb-47bb-8915-05ae8c7dbff0.svg)
+
 
 ## Description
 
