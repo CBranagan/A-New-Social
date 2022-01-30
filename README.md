@@ -42,7 +42,7 @@ None
 
 This application has the following Licensing:
 
-    https://opensource.org/licenses/ISC
+    https://opensource.org/licenses/MIT
 
 # Contributor Covenant Code of Conduct
 
